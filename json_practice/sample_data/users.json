@@ -1,0 +1,6 @@
+[
+  {"name": "Alice", "age": 25, "email": "alice@example.com", "role": "admin"},
+  {"name": "Bob", "email": "bob@example.com", "role": "user"},
+  {"name": "Charlie", "age": 28, "role": "user"},
+  {"name": "Diana", "age": 32, "email": "diana@example.com"}
+]
